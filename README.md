@@ -1,2 +1,2 @@
 # backend_tasks
-project where i learned basics of databases and API
+project where I've learned the basics of databases and API
