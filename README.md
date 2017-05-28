@@ -1,2 +1,5 @@
-# backend_tasks
-project where i learned basics of databases and API
+Project to learn basics of databases and backend APIs
+
+
+initialize database:
+  sudo systemctl start postgresql
